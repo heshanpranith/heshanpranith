@@ -1,4 +1,4 @@
-name: Generate Blue Snake Animation
+name: Generate Green Snake Animation
 
 on:
   schedule:
@@ -19,13 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the blue snake SVG
+      # Step 2: Generate the green snake SVG
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: heshanpranith
           outputs: |
-            dist/github-snake-blue.svg?color_snake=#00d8ff&color_dots=#161b22,#003366,#0055a5,#0077e6,#0099ff
+            dist/github-snake-green.svg?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
