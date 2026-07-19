@@ -6,11 +6,20 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch: # Allows you to trigger it manually anytime
 
+# Explicitly grant write permissions to push the generated image
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      # Step 1: Checkout the repository first so Git commands work
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Generate the blue snake SVG
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,6 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 3: Push the generated image to the output branch
       - name: Push to GitHub output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
