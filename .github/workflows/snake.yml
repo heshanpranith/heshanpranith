@@ -19,13 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the black snake with a deep, ultra-rich green grid
+      # Step 2: Generate the black snake using your custom #499A13 green palette
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: heshanpranith
           outputs: |
-            dist/github-snake-green.svg?color_snake=#000000&color_dots=#0c3820,#156138,#1e8b50,#28b568,#39ff8d
+            dist/github-snake-green.svg?color_snake=#000000&color_dots=#113307,#245c10,#367c12,#499A13,#62d11b
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
