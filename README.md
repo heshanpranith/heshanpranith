@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋, I'm Heshan Pranith
 
-<!--
-**heshanpranith/heshanpranith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/normal-badge.png?username=heshanpranith&style=flat-rounded&color=blueviolet" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+### Passionate Software Architect & Lead Developer | Building Enterprise Ecosystems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently refining advanced multi-tenant enterprise architectures
+- 💼 Lead Developer at **Ceybase IT (Pvt) Ltd**
+- 💬 Ask me about **.NET 8.0, C#, WPF (MVVM), and SQL Server Optimization**
+- 📫 How to reach me: **heshanpranith@gmail.com**
+
+---
+
+## My Statistics
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=heshanpranith&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshanpranith&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanpranith&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="70%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/heshanpranith" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@heshanpranith" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+### Languages and Tools:
+
+<p align="left">
+  <!-- Core Dev Backend & Desktop -->
+  <img src="https://skillicons.dev/icons?i=dotnet,cs&theme=dark" alt="Core .NET and C#" />
+  <!-- Web Frontend & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php&theme=dark" alt="Web Technologies" />
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Databases" />
+  <!-- Design, Gaming & Engines -->
+  <img src="https://skillicons.dev/icons?i=ai,blender,unity,c&theme=dark" alt="Design and Engines" />
+</p>
+
+<!-- DASHBOARD-START -->
+<!-- DASHBOARD-END -->
