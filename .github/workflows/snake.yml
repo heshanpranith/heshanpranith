@@ -19,13 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the black snake with green grid dots
+      # Step 2: Generate the black snake with an all-green square grid
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: heshanpranith
           outputs: |
-            dist/github-snake-green.svg?color_snake=#000000&color_dots=#dcfce7,#86efac,#4ade80,#22c55e,#15803d
+            dist/github-snake-green.svg?color_snake=#000000&color_dots=#dcfce7,#86efac,#4ade80,#22c55e,#16a34a
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
