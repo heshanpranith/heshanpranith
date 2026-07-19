@@ -19,13 +19,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Generate the black snake with #499A13 as the base square color
+      # Step 2: Generate the #99C2FF light blue snake with #499A13 green base squares
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: heshanpranith
           outputs: |
-            dist/github-snake-green.svg?color_snake=#000000&color_dots=#499A13,#5ebb1e,#6edd25,#7ef82b,#92ff3c
+            dist/github-snake-green.svg?color_snake=#99C2FF&color_dots=#499A13,#5ebb1e,#6edd25,#7ef82b,#92ff3c
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
