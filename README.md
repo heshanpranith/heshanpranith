@@ -1,5 +1,11 @@
 # Hi 👋, I'm Heshan Pranith
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=heshanpranith&style=flat-rounded&color=blueviolet" alt="Profile Views" />
+</p>
+
+### Passionate Software Architect & Lead Developer | Building Enterprise Ecosystems
+
 - 🌱 I’m currently refining advanced multi-tenant enterprise architectures
 - 💼 Lead Developer at **Ceybase IT (Pvt) Ltd**
 - 💬 Ask me about **.NET 8.0, C#, WPF (MVVM), and SQL Server Optimization**
@@ -7,24 +13,11 @@
 
 ---
 
-## My Statistics
+### 🐍 Contribution Activity Grid
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=heshanpranith&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshanpranith&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanpranith&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="70%" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/heshanpranith/heshanpranith/output/github-snake-blue.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+</p>
 
 ---
 
