@@ -1,11 +1,5 @@
 # Hi 👋, I'm Heshan Pranith
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=heshanpranith&style=flat-rounded&color=blueviolet" alt="Profile Views" />
-</p>
-
-### Passionate Software Architect & Lead Developer | Building Enterprise Ecosystems
-
 - 🌱 I’m currently refining advanced multi-tenant enterprise architectures
 - 💼 Lead Developer at **Ceybase IT (Pvt) Ltd**
 - 💬 Ask me about **.NET 8.0, C#, WPF (MVVM), and SQL Server Optimization**
