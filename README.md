@@ -1,7 +1,7 @@
 # Hi 👋, I'm Heshan Pranith
 
 <p align="left">
-  <img src="https://komarev.com/normal-badge.png?username=heshanpranith&style=flat-rounded&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=heshanpranith&style=flat-rounded&color=blueviolet" alt="Profile Views" />
 </p>
 
 ### Passionate Software Architect & Lead Developer | Building Enterprise Ecosystems
@@ -9,7 +9,7 @@
 - 🌱 I’m currently refining advanced multi-tenant enterprise architectures
 - 💼 Lead Developer at **Ceybase IT (Pvt) Ltd**
 - 💬 Ask me about **.NET 8.0, C#, WPF (MVVM), and SQL Server Optimization**
-- 📫 How to reach me: **heshanpranith@gmail.com**
+- 📫 How to reach me: **heshanpranith244@gmail.com**
 
 ---
 
@@ -18,7 +18,7 @@
 <table border="0" width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=heshanpranith&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=heshanpranith&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="top">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=heshanpranith&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak" />
@@ -37,11 +37,8 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://linkedin.com/in/heshanpranith" target="_blank">
+  <a href="https://www.linkedin.com/in/heshan-pranith-2a6022262" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@heshanpranith" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
