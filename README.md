@@ -1,7 +1,6 @@
 # Hi 👋, I'm Heshan Pranith
 
 
-
 - 🌱 I’m currently refining advanced multi-tenant enterprise architectures
 - 💼 Lead Developer at **Ceybase IT (Pvt) Ltd**
 - 💬 Ask me about **.NET 8.0, C#, WPF (MVVM), and SQL Server Optimization**
@@ -12,7 +11,7 @@
 ### 🐍 Contribution Activity Grid
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/heshanpranith/heshanpranith/output/github-snake-blue.svg" alt="GitHub Contribution Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/heshanpranith/heshanpranith/output/github-snake-green.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 </p>
 
 ---
