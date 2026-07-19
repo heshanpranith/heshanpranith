@@ -8,7 +8,7 @@
 
 ---
 
-### 🐍 Contribution Activity Grid
+### 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/heshanpranith/heshanpranith/output/github-snake-green.svg" alt="GitHub Contribution Snake Animation" width="100%" />
